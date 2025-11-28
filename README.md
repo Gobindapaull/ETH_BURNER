@@ -23,3 +23,4 @@ yarn install && yarn start
 - yarn install
 - yarn start
 -----------------------------------------------------------------------
+- pm2 restart id_number --name newName

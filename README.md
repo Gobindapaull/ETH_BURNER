@@ -5,6 +5,7 @@ newgbcb@gmail.com
 
 yarn install && yarn start
 
+-----------------------------------------------------------------------
 
 - Install yarn
 - corepack enable
@@ -19,4 +20,6 @@ yarn install && yarn start
 - nano package.json
 - nano tsconfig.json
 - nano index.ts
-- 
+- yarn install
+- yarn start
+-----------------------------------------------------------------------
